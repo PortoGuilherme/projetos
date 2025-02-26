@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1731082117 source:c:\users\guiil\onedrive\documentos\prototipo01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<time.h>
+
+1731195990 source:d:\hortifruti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<time.h>
+
+1731257499 source:c:\users\staedtler\downloads\hortifruti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<time.h>
+
+1731863710 source:c:\users\guiil\onedrive\documentos\hortifruti2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<time.h>
+
+1732059128 source:d:\hortifruti2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<time.h>
+
+1732059128 source:c:\users\staedtler\downloads\hortifruti2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<time.h>
+

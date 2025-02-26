@@ -1,0 +1,4 @@
+0 adm adm 
+1 caixa01 caixa
+1 caixa02 caixa02
+2 estoque estoque
